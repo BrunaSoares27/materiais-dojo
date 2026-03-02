@@ -1,1 +1,1 @@
-# materiais-dojo
+# Materiais elaborados para as sessões Dojo
